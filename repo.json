@@ -1,0 +1,18 @@
+[
+  {
+    "Author": "cchat",
+    "Name": "cchat",
+    "InternalName": "cchat",
+    "AssemblyVersion": "0.0.1.2",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "Punchline": "A compact messenger for FFXIV Tells.",
+    "Description": "Open with /cchat. Tell history is saved unencrypted on this PC, separately for each character. cchat Presence shares your character name, home world, and live status with its server, not your Tell text. External image previews contact their hosts directly.",
+    "Tags": ["chat", "messenger", "tells"],
+    "RepoUrl": "https://github.com/verrilmerteuil/cchatv2",
+    "IconUrl": "https://raw.githubusercontent.com/verrilmerteuil/cchatv2/main/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.2/latest.zip",
+    "Changelog": "Add Skyline, a shared animated night-city background, and improve Hardstyle Arena with detailed lighting, crowds, and beat-synced effects. Skyline sharing requires an updated Presence server."
+  }
+]
