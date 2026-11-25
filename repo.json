@@ -3,7 +3,7 @@
     "Author": "cchat",
     "Name": "cchat",
     "InternalName": "cchat",
-    "AssemblyVersion": "0.0.1.2",
+    "AssemblyVersion": "0.0.1.6",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "A compact messenger for FFXIV Tells.",
@@ -11,8 +11,8 @@
     "Tags": ["chat", "messenger", "tells"],
     "RepoUrl": "https://github.com/verrilmerteuil/cchatv2",
     "IconUrl": "https://raw.githubusercontent.com/verrilmerteuil/cchatv2/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.2/latest.zip",
-    "Changelog": "Add Skyline, a shared animated night-city background, and improve Hardstyle Arena with detailed lighting, crowds, and beat-synced effects. Skyline sharing requires an updated Presence server."
+    "DownloadLinkInstall": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.6/latest.zip",
+    "Changelog": "Add locally cached recent 7TV emotes, preserve composer focus after sending, and improve outgoing Tell confirmation. Includes recent chats, message copying, and quoted replies."
   }
 ]
