@@ -3,7 +3,7 @@
     "Author": "cchat",
     "Name": "cchat",
     "InternalName": "cchat",
-    "AssemblyVersion": "0.0.1.6",
+    "AssemblyVersion": "0.0.1.7",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Punchline": "A compact messenger for FFXIV Tells.",
@@ -11,8 +11,8 @@
     "Tags": ["chat", "messenger", "tells"],
     "RepoUrl": "https://github.com/verrilmerteuil/cchatv2",
     "IconUrl": "https://raw.githubusercontent.com/verrilmerteuil/cchatv2/main/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.6/latest.zip",
-    "Changelog": "Add locally cached recent 7TV emotes, preserve composer focus after sending, and improve outgoing Tell confirmation. Includes recent chats, message copying, and quoted replies."
+    "DownloadLinkInstall": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/verrilmerteuil/cchatv2/releases/download/v0.0.1.7/latest.zip",
+    "Changelog": "Add eight optional incoming Tell sounds under Chat > Alerts, with previews and a saved volume setting that defaults to 30%."
   }
 ]
